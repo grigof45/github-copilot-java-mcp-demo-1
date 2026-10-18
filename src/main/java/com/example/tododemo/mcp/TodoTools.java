@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 
 import java.util.List;
 
-/** Exposes the shared todo service as MCP tools. Test git*/
+/** Exposes the shared todo service as MCP tools. Test git 2*/
 @Component
 public class TodoTools {
 
